@@ -1,0 +1,4 @@
+nombre:santiago ortiz velez
+edad:18
+color favorito:verde
+ciudad de nacimiento:armenia
